@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YJ0107
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Java, Python & Javascript
+- 🌱 I’m currently learning Java technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
